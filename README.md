@@ -1,0 +1,1 @@
+The task included Exploratory Data Analysis on the provided Gala Grocery retail data and the major goal was to better stock the items that they sell in the market to earn more profits and gain more customers while not losing existed ones.
